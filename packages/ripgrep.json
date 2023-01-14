@@ -1,6 +1,5 @@
 {
   "name": "ripgrep",
   "pretty_name": "ripgrep",
-  "repo": ["BurntSushi", "ripgrep"],
-  "protocol_version": 9999999999
+  "repo": ["BurntSushi", "ripgrep"]
 }
