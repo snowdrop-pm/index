@@ -1,0 +1,6 @@
+{
+  "name": "archisteamfarm",
+  "pretty_name": "ArchiSteamFarm",
+  "repo": ["JustArchiNET", "ArchiSteamFarm"],
+  "naming_scheme": "ASF-{{basic_platform_osx}}-x64.zip"
+}
